@@ -1,0 +1,109 @@
+main {
+    background-image: url("./imagenes/fondo\ pagina\ 1\ \(2\).png");
+    background-repeat: no-repeat;
+}
+.ima-estudiantes {
+    width: 500px;
+    height: 585px;
+    top: 15px;
+    left: 500px;
+    position: absolute;
+}
+  
+.logo-div {
+    padding: 42px 0 0;
+    display: flex;
+    width: 105px;
+    height: 152px;
+    margin-left: 71px;
+}
+.titulo {
+    margin-top: 60px;
+    
+}
+.text-titulo {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 50px;
+    text-align: center;
+    height: 225px;
+    width: 463px;
+    color: linear-gradient(80.42deg, #000000 18.63%#C9FFFC 136.74%);
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.frase {
+    font-family: "Overlock SC";
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 37px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #016095;
+    height: 111px;
+    width: 429px;
+    margin-left: 82px;
+    margin-top: 35px;
+}
+.btn-primary {
+   position: absolute;
+    width: 250px;
+    height: 55px;
+    margin-left: 173px;
+    margin-top: 38px;
+    background-color: #092c8a;
+    border-radius: 50px;
+    font-family: Palanquin Dark;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 43px;
+    text-align: center;
+    background-color: #f1f2f4;
+}
+.btn-tec {
+    position: absolute;
+    width: 187px;
+    height: 101px;
+    margin-left: 545px;
+    top: 480px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    font-weight: 900;
+    font-size: 30px;
+    
+    line-height: 35px;
+    text-align: center;
+    font-style: normal;
+}
+  
+.divisor {
+    position: absolute;
+    width: 101px;
+    height: 0px;
+    margin-left: 693px;
+    top: 528px;
+    background-color: #fff;
+    border: 3px solid #ffffff;
+    transform: rotate(90deg);
+}
+  
+.btn-ana {
+    position: absolute;
+    width: 187px;
+    height: 101px;
+    margin-left: 756px;
+    top: 480px;
+    background: #c4c4c4;
+    
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #ffffff;
+    border: 1px solid #d20a15;
+    border-radius: 8px;
+}
